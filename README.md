@@ -1,4 +1,4 @@
 # Synapta 
 ### https://www.synaptaing.com/
 
-Los repositorios son privados, proximamente aportaremos al Open Source! :D
+Los repo de proyectos son privados, proximamente aportaremos al Open Source! :D
